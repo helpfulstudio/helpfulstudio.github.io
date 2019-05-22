@@ -52,3 +52,12 @@
 .icon-desktop:before {
   content: "\e909";
 }
+
+/* carter-one-regular - latin */
+@font-face {
+  font-family: 'Carter One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Carter One'), local('CarterOne'),
+       url('fonts/CarterOne.woff') format('woff');
+}
